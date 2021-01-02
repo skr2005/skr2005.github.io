@@ -1,4 +1,4 @@
-以下文档来自@riku
+以下文档来自@[riku][t]
 ----------------
 ----------------
 << [访问 Wow!Ubuntu](http://wowubuntu.com)
