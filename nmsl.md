@@ -1,3 +1,6 @@
+---
+permalink: /nmsl.html
+---
 以下是一个示例
 ***
 
