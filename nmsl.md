@@ -1,6 +1,7 @@
 ---
-permalink: /nmsl.html
+permalink: /test
 title: TEST
+description: 2021-1
 ---
 以下是一个示例
 
@@ -10,5 +11,5 @@ title: TEST
     
     function repeatStringNumTimes(string, times) { var repeatedString = ""; while (times > 0) { repeatedString += string; times--; } return repeatedString; }
     
-    document.getElementById(1).innerHTML = repeatStringNumTimes("你妈死了",25000)
+    document.getElementById(1).innerHTML = repeatStringNumTimes("Hello!",25000)
     </script></body></html>
