@@ -1,7 +1,7 @@
 ---
 permalink: /nmsl.html
-theme: jekyll-theme-minimal
 title: nmsl
+description: only a test
 ---
 以下是一个示例
 
