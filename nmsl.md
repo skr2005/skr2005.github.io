@@ -1,7 +1,6 @@
 ---
 permalink: /nmsl.html
-title: nmsl
-description: only a test
+title: TEST
 ---
 以下是一个示例
 
