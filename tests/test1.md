@@ -1,5 +1,5 @@
 ---
-permalink: /test
+permalink: /tests/test1.html
 title: TEST
 ---
 以下是一个示例
