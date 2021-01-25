@@ -2,7 +2,7 @@
 #permalink: /_layouts/default.html
 layout: 
 ---
-{{ content }}
+{{ page.title }}
 
 ***
 
