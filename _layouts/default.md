@@ -1,5 +1,5 @@
 ---
-permalink: /_layouts/default.html
+#permalink: /_layouts/default.html
 layout: 
 ---
 {{ content }}
