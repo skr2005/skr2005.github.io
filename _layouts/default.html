@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0, user-scalable=yes"/>
+
+<style type="text/css">
+
+
+@media (min-width: 780px) { 
+div{
+
+    margin: 0 auto;  /*浏览器居中*/
+    width: 750px;  /*段落宽度 700 像素*/
+    overflow-wrap:break-word;word-break: break-word; //自动换行
+}
+
+}
+
+@media (max-width: 779px) { 
+
+div{
+
+    overflow-wrap:break-word;word-break: break-word; //自动换行
+
+}
+
+}
+
+
+p{
+    text-align: left;  /*文本左对齐*/
+    font-size: 18px;  /*字体大小 18 像素*/
+    line-height: 25px;  /*行高 25 像素*/
+    text-indent: 2em;  /*首行缩进2个文字大小空间*/
+    margin-bottom: 20px;  /*段落下边距 20 像素*/
+
+}
+
+</style>
+
+  <title>{{ page.title }}</title>
+  
+</head>
+
+<body>
+
+<div>
+
+  {{ content }}
+  
+</div>
+  
+</body>
+  
+</html>
